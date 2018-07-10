@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_cinema/scoped_model/app_model.dart';
 import 'package:scoped_model/scoped_model.dart';
+import 'package:flutter_app_cinema/widget/home_page.dart';
 
 class CinemaApp extends StatelessWidget {
   @override
